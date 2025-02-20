@@ -37,7 +37,7 @@ Grad-CAM highlights important regions in an image that influence the model’s p
 
 ## Results
 
-- The trained model achieves **validation accuracy >50%**.
+- The trained model achieves **validation accuracy = 45%**.
 - Grad-CAM heatmaps highlight discriminative regions of images for classification.
 
 
